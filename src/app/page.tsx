@@ -1,5 +1,5 @@
 import Image from "next/image";
-import {TodoApp} from "@/components/todo-app";
+import TodoApp from "@/components/todo-app";
 
 export default function Home() {
   return (
